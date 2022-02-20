@@ -9,4 +9,4 @@ The system also manages the heat of the battery to keep it within the optimal te
 
 Between the temperature and charge rate, the main goal of this system is to prolonge the lifespan of the cars battery pack for as long as possible.
 
-[Learn more by reading the report](https://drive.google.com/file/d/1CYO9YHfNwMKstC5XvIym3Xy2h0Ejzqg-/view?usp=sharing)
+Learn more about how this system was researched, designed, constructed and calibrated by reading the [report](https://drive.google.com/file/d/1CYO9YHfNwMKstC5XvIym3Xy2h0Ejzqg-/view?usp=sharing)
